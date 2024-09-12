@@ -1,0 +1,11 @@
+C:\Users\Greg\AppData\Local\Temporary Projects\WDQueueMonitor\bin\Debug\WDQueueMonitor.exe.config
+C:\Users\Greg\Documents\Watchdog\WDQueueMonitor\WDQueueMonitor\bin\Debug\WDQueueMonitor.exe.config
+C:\Users\Greg\Documents\Watchdog\WDQueueMonitor\WDQueueMonitor\bin\Debug\WDQueueMonitor.exe
+C:\Users\Greg\Documents\Watchdog\WDQueueMonitor\WDQueueMonitor\bin\Debug\WDQueueMonitor.pdb
+C:\Users\Greg\Documents\Watchdog\WDQueueMonitor\WDQueueMonitor\bin\Debug\WDQueueMonitor.xml
+C:\Users\Greg\Documents\Watchdog\WDQueueMonitor\WDQueueMonitor\obj\Debug\WDQueueMonitor.Resources.resources
+C:\Users\Greg\Documents\Watchdog\WDQueueMonitor\WDQueueMonitor\obj\Debug\WDQueueMonitor.Form1.resources
+C:\Users\Greg\Documents\Watchdog\WDQueueMonitor\WDQueueMonitor\obj\Debug\WDQueueMonitor.vbproj.GenerateResource.Cache
+C:\Users\Greg\Documents\Watchdog\WDQueueMonitor\WDQueueMonitor\obj\Debug\WDQueueMonitor.exe
+C:\Users\Greg\Documents\Watchdog\WDQueueMonitor\WDQueueMonitor\obj\Debug\WDQueueMonitor.xml
+C:\Users\Greg\Documents\Watchdog\WDQueueMonitor\WDQueueMonitor\obj\Debug\WDQueueMonitor.pdb

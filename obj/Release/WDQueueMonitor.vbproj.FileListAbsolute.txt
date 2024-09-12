@@ -1,0 +1,11 @@
+C:\Users\Greg\Documents\Watchdog\WDQueueMonitor\WDQueueMonitor\bin\Release\WDQueueMonitor.exe.config
+C:\Users\Greg\Documents\Watchdog\WDQueueMonitor\WDQueueMonitor\bin\Release\WDQueueMonitor.exe
+C:\Users\Greg\Documents\Watchdog\WDQueueMonitor\WDQueueMonitor\bin\Release\WDQueueMonitor.pdb
+C:\Users\Greg\Documents\Watchdog\WDQueueMonitor\WDQueueMonitor\bin\Release\WDQueueMonitor.xml
+C:\Users\Greg\Documents\Watchdog\WDQueueMonitor\WDQueueMonitor\obj\Release\WDQueueMonitor.Resources.resources
+C:\Users\Greg\Documents\Watchdog\WDQueueMonitor\WDQueueMonitor\obj\Release\WDQueueMonitor.Form1.resources
+C:\Users\Greg\Documents\Watchdog\WDQueueMonitor\WDQueueMonitor\obj\Release\WDQueueMonitor.vbproj.GenerateResource.Cache
+C:\Users\Greg\Documents\Watchdog\WDQueueMonitor\WDQueueMonitor\obj\Release\WDQueueMonitor.exe
+C:\Users\Greg\Documents\Watchdog\WDQueueMonitor\WDQueueMonitor\obj\Release\WDQueueMonitor.xml
+C:\Users\Greg\Documents\Watchdog\WDQueueMonitor\WDQueueMonitor\obj\Release\WDQueueMonitor.pdb
+C:\Users\Greg\Documents\Watchdog\WDQueueMonitor\WDQueueMonitor\obj\Release\WDQueueMonitor.vbprojResolveAssemblyReference.cache
